@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @w1ld3w0rkS
+- 👋 Hi, I’m @w1ld3w0rks
 - 👀 I’m interested in ... Cybersecurity, Linux and Gaming
 - 🌱 I’m currently learning ... Python and Ruby along with a career in IT and Cybersecurity.
 - 💞️ I’m looking to collaborate on ... Homebrew, Cybersecurity, Kali, Steam and games.
