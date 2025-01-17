@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Homebrew, Kali, and SteamOS**
 
-- 👨‍💻 All of my projects are available at [wildew3rks.io](wildew3rks.io)
+- 👨‍💻 All of my projects are available at [wildew3rks.com](wildew3rks.com)
 
 - 📝 I regularly write articles on ☕️ Coffee and tech.
 
