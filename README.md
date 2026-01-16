@@ -65,7 +65,4 @@ __      __`| || | __| |    / /_      _| |/' |_ __| | _|___ \
 
 <p> <h3 align="left"> 📊 Contributions and Stats</h3>
 
-
-<p><img align="center" width="465px" src="https://github-readme-streak-stats.herokuapp.com/?user=w1ld3w0rks&" alt="w1ld3w0rks" /></p>
-
-![Cory's GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ld3w0rks&theme=codeSTACKr&show_icons=true)
+![Cory's GitHub Stats](https://githubcard.com/w1ld3w0rks.svg?d=AuhJUtSj)
