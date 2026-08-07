@@ -18,7 +18,15 @@
 
 - 👀 I’m currently working on **a career in IT and Cybersecurity.**
 
-- 🤝 I’m looking for help with **Homebrew, Kali, and SteamOS**
+- 🎓 AS in Cloud, Networking & Cybersecurity — Los Angeles Pierce College
+
+- 🔧 Hands-on with **Cisco routing & switching, Windows Server, AWS/Azure, Kali Linux**
+
+- 🔑 Learning offensive security fundamentals — password auditing, wordlist-based cracking (John the Ripper, Hydra), Nmap recon
+
+- 📡 Currently studying for the **CCNA**
+
+- 💬 Ask me about home networking labs, VLANs, or troubleshooting IP-based
 
 - 👨‍💻 All of my projects are available at **[wildew3rks.com](https://www.wildew3rks.com)**
 
